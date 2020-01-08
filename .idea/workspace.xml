@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d8cb6045-607e-4c9e-828f-62f5189d0861" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VCF6Cowc5VLcXdf8vFOQ9ENk5m" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.13.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RunManager" selected="Node.js.facade_pattern.js">
+    <configuration name="command_pattern.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/command_pattern.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="facade_pattern.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/facade_pattern.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="factory_pattern.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/factory_pattern.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="singleton_pattern.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/singleton_pattern.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="try.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/try.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.facade_pattern.js" />
+        <item itemvalue="Node.js.command_pattern.js" />
+        <item itemvalue="Node.js.try.js" />
+        <item itemvalue="Node.js.factory_pattern.js" />
+        <item itemvalue="Node.js.singleton_pattern.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8cb6045-607e-4c9e-828f-62f5189d0861" name="Default Changelist" comment="" />
+      <created>1576748993004</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576748993004</updated>
+      <workItem from="1576748994834" duration="14620000" />
+      <workItem from="1576783078553" duration="6086000" />
+      <workItem from="1576830784708" duration="148000" />
+      <workItem from="1576830952659" duration="4351000" />
+      <workItem from="1576835368324" duration="6683000" />
+      <workItem from="1576915822540" duration="14555000" />
+      <workItem from="1577002708079" duration="12952000" />
+      <workItem from="1577087661350" duration="11945000" />
+      <workItem from="1577116309567" duration="1720000" />
+      <workItem from="1577120706404" duration="1747000" />
+      <workItem from="1577178524993" duration="34888000" />
+      <workItem from="1577347673402" duration="19805000" />
+      <workItem from="1577438192745" duration="4370000" />
+      <workItem from="1577443426218" duration="3956000" />
+      <workItem from="1577459944096" duration="14854000" />
+      <workItem from="1577518582673" duration="18800000" />
+      <workItem from="1577607303055" duration="13698000" />
+      <workItem from="1577693320900" duration="10649000" />
+      <workItem from="1577910238567" duration="4831000" />
+      <workItem from="1577961066871" duration="12200000" />
+      <workItem from="1578060203516" duration="3909000" />
+      <workItem from="1578128280249" duration="5354000" />
+      <workItem from="1578235857437" duration="4523000" />
+      <workItem from="1578309598369" duration="2511000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="294" y="-886" key="#Notifications" timestamp="1577199507078">
+      <screen x="-138" y="-1050" width="1680" height="1010" />
+    </state>
+    <state x="294" y="-886" key="#Notifications/0.0.1366.728/-138.-1050.1680.1010@-138.-1050.1680.1010" timestamp="1577199507078" />
+    <state x="431" y="-884" key="FileChooserDialogImpl" timestamp="1577736465527">
+      <screen x="-138" y="-1050" width="1680" height="1010" />
+    </state>
+    <state x="431" y="-884" key="FileChooserDialogImpl/0.0.1366.728/-138.-1050.1680.1010@-138.-1050.1680.1010" timestamp="1577736465527" />
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1577122025299" />
+    <state width="1658" height="376" key="GridCell.Tab.0.bottom" timestamp="1578242781112">
+      <screen x="-138" y="-1050" width="1680" height="1010" />
+    </state>
+    <state width="1658" height="376" key="GridCell.Tab.0.bottom/0.0.1366.728/-138.-1050.1680.1010@-138.-1050.1680.1010" timestamp="1578242781112" />
+    <state width="1659" height="216" key="GridCell.Tab.0.bottom/0.0.1366.728/-229.-1050.1680.1010@-229.-1050.1680.1010" timestamp="1576851972126" />
+    <state width="1345" height="334" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577657273936" />
+    <state width="1658" height="376" key="GridCell.Tab.0.center" timestamp="1578242781112">
+      <screen x="-138" y="-1050" width="1680" height="1010" />
+    </state>
+    <state width="1658" height="376" key="GridCell.Tab.0.center/0.0.1366.728/-138.-1050.1680.1010@-138.-1050.1680.1010" timestamp="1578242781112" />
+    <state width="1659" height="216" key="GridCell.Tab.0.center/0.0.1366.728/-229.-1050.1680.1010@-229.-1050.1680.1010" timestamp="1576851972126" />
+    <state width="1345" height="334" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577657273936" />
+    <state width="1658" height="376" key="GridCell.Tab.0.left" timestamp="1578242781111">
+      <screen x="-138" y="-1050" width="1680" height="1010" />
+    </state>
+    <state width="1658" height="376" key="GridCell.Tab.0.left/0.0.1366.728/-138.-1050.1680.1010@-138.-1050.1680.1010" timestamp="1578242781111" />
+    <state width="1659" height="216" key="GridCell.Tab.0.left/0.0.1366.728/-229.-1050.1680.1010@-229.-1050.1680.1010" timestamp="1576851972125" />
+    <state width="1345" height="334" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577657273936" />
+    <state width="1658" height="376" key="GridCell.Tab.0.right" timestamp="1578242781112">
+      <screen x="-138" y="-1050" width="1680" height="1010" />
+    </state>
+    <state width="1658" height="376" key="GridCell.Tab.0.right/0.0.1366.728/-138.-1050.1680.1010@-138.-1050.1680.1010" timestamp="1578242781112" />
+    <state width="1659" height="216" key="GridCell.Tab.0.right/0.0.1366.728/-229.-1050.1680.1010@-229.-1050.1680.1010" timestamp="1576851972126" />
+    <state width="1345" height="334" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577657273936" />
+    <state x="88" y="-1042" key="SettingsEditor" timestamp="1578309633536">
+      <screen x="-138" y="-1050" width="1680" height="1010" />
+    </state>
+    <state x="88" y="-1042" key="SettingsEditor/0.0.1366.728/-138.-1050.1680.1010@-138.-1050.1680.1010" timestamp="1578309633536" />
+    <state x="186" y="8" key="SettingsEditor/0.0.1366.728/-138.-1050.1680.1010@0.0.1366.728" timestamp="1578136102973" />
+    <state x="-3" y="-1042" key="SettingsEditor/0.0.1366.728/-229.-1050.1680.1010@-229.-1050.1680.1010" timestamp="1576832205832" />
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1578060235874" />
+    <state x="366" y="-278" key="run.anything.popup" timestamp="1577445119558">
+      <screen x="-138" y="-1050" width="1680" height="1010" />
+    </state>
+    <state x="366" y="-278" key="run.anything.popup/0.0.1366.728/-138.-1050.1680.1010@-138.-1050.1680.1010" timestamp="1577445119558" />
+    <state x="365" y="-833" width="672" height="678" key="search.everywhere.popup" timestamp="1577464611095">
+      <screen x="-138" y="-1050" width="1680" height="1010" />
+    </state>
+    <state x="365" y="-833" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/-138.-1050.1680.1010@-138.-1050.1680.1010" timestamp="1577464611095" />
+  </component>
+</project>
