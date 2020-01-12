@@ -1,4 +1,14 @@
 // An object representing another object and control access to this object,
+// // However, there are situations where an object is severely constrained
+// and cannot live up to its responsibility.
+// Typically this occurs when there is a dependency on a remote resource
+// (resulting in network latency) or when an object takes a long time to load.
+//
+// In situations like these you apply the Proxy pattern and
+// create a proxy object that ‘stands in’ for the original object.
+// The Proxy forwards the request to a target object.
+// The interface of the Proxy object is the same as the original object and
+// clients may not even be aware they are dealing with a proxy rather than the real object
 
 function GeoCoder() {
 

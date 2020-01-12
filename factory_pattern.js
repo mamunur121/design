@@ -1,6 +1,13 @@
 // FACTORY PATTERN
 // Definition: Define an interface for creating an object, but let subclasses decide which class to instantiate.
 // Factory Method lets a class defer instantiation to subclasses.
+
+// The key objective of the Factory Method is extensibility.
+// Factory Methods are frequently used in applications that manage, maintain, or manipulate
+// collections of objects that are different but at the same
+// time have many characteristics (i.e. methods and properties) in common.
+// An example would be a collection of documents with a mix of Xml documents, Pdf documents, and Rtf documents.
+//  There are situations however, where the client does not, or should not, know which one of several candidate objects to instantiate
 // EXAMPLE 1
 
 class BallFactory {
@@ -138,7 +145,7 @@ function Car(options){
 
 function VehicleFactory(){}
 
-VehicleFactory.prototype.createVehicle = function(options){
+VehicleFactory.prototype.createVehicle = function(options) {
 
   switch(options.type) {
     case 'Bike':

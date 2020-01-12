@@ -1,9 +1,13 @@
 // This is a behavioural design pattern
 // that aims to encapsulate actions or operations as objects.
-// This pattern allows loose coupling of systems
-// and classes by separating the objects
-// that request an operation or invoke a method
-// from the ones that execute or process the actual implementation.
+
+// Suppose you are building an application that supports the Cut, Copy, and Paste clipboard actions.
+// These actions can be triggered in different ways throughout the app:
+// by a menu system, a context menu (e.g. by right clicking on a textbox), or by a keyboard shortcut.
+
+// Command objects allow you to centralize the processing of these actions,
+// one for each operation. So, you need only one Command for processing all Cut requests,
+// one for all Copy requests, and one for all Paste requests.
 ////////////////////////////////1 ///////////////////////////////////////////////////////
 class SpecialMath {
   constructor(num) {
@@ -56,7 +60,7 @@ name.execute = function (key) {
   return methodName.apply(name, functionParamsArray);
 };
 
-//name.execute('setName', 'Akash', 'Pal');
+name.execute('setName', 'Akash', 'Pal');
 console.log(name.execute('getName'));
 
 ///////////////////////////////////////
@@ -151,10 +155,6 @@ function run() {
   calculator.execute(new MulCommand(6));
   calculator.execute(new DivCommand(2));
   // reverse last two commands
-  calculator.undo();
-  calculator.undo();
-  calculator.undo();
-  calculator.undo();
 
   log.add("\nValue: " + calculator.getCurrentValue());
   log.show();

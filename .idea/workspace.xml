@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d8cb6045-607e-4c9e-828f-62f5189d0861" name="Default Changelist" comment="" />
+    <list default="true" id="d8cb6045-607e-4c9e-828f-62f5189d0861" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adapter_pattern.js" beforeDir="false" afterPath="$PROJECT_DIR$/adapter_pattern.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/command_pattern.js" beforeDir="false" afterPath="$PROJECT_DIR$/command_pattern.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/decorator_pattern.js" beforeDir="false" afterPath="$PROJECT_DIR$/decorator_pattern.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/facade_pattern.js" beforeDir="false" afterPath="$PROJECT_DIR$/facade_pattern.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/factory_pattern.js" beforeDir="false" afterPath="$PROJECT_DIR$/factory_pattern.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logger.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/observer_pattern.js" beforeDir="false" afterPath="$PROJECT_DIR$/observer_pattern.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proxy_pattern.js" beforeDir="false" afterPath="$PROJECT_DIR$/proxy_pattern.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/singleton_pattern.js" beforeDir="false" afterPath="$PROJECT_DIR$/singleton_pattern.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/try.js" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +28,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VCF6Cowc5VLcXdf8vFOQ9ENk5m" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,13 +40,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.13.1" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
-  <component name="RunManager" selected="Node.js.facade_pattern.js">
+  <component name="RunManager" selected="Node.js.factory_pattern.js">
     <configuration name="command_pattern.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/command_pattern.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -46,11 +65,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.facade_pattern.js" />
-        <item itemvalue="Node.js.command_pattern.js" />
-        <item itemvalue="Node.js.try.js" />
         <item itemvalue="Node.js.factory_pattern.js" />
         <item itemvalue="Node.js.singleton_pattern.js" />
+        <item itemvalue="Node.js.command_pattern.js" />
+        <item itemvalue="Node.js.facade_pattern.js" />
+        <item itemvalue="Node.js.try.js" />
       </list>
     </recent_temporary>
   </component>
@@ -100,6 +119,9 @@
       <workItem from="1578128280249" duration="5354000" />
       <workItem from="1578235857437" duration="4523000" />
       <workItem from="1578309598369" duration="2511000" />
+      <workItem from="1578591479916" duration="9045000" />
+      <workItem from="1578672920012" duration="7575000" />
+      <workItem from="1578794975463" duration="19224000" />
     </task>
     <servers />
   </component>
@@ -116,34 +138,34 @@
     </state>
     <state x="431" y="-884" key="FileChooserDialogImpl/0.0.1366.728/-138.-1050.1680.1010@-138.-1050.1680.1010" timestamp="1577736465527" />
     <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1577122025299" />
-    <state width="1658" height="376" key="GridCell.Tab.0.bottom" timestamp="1578242781112">
+    <state width="1658" height="203" key="GridCell.Tab.0.bottom" timestamp="1578820890166">
       <screen x="-138" y="-1050" width="1680" height="1010" />
     </state>
-    <state width="1658" height="376" key="GridCell.Tab.0.bottom/0.0.1366.728/-138.-1050.1680.1010@-138.-1050.1680.1010" timestamp="1578242781112" />
+    <state width="1658" height="203" key="GridCell.Tab.0.bottom/0.0.1366.728/-138.-1050.1680.1010@-138.-1050.1680.1010" timestamp="1578820890166" />
     <state width="1659" height="216" key="GridCell.Tab.0.bottom/0.0.1366.728/-229.-1050.1680.1010@-229.-1050.1680.1010" timestamp="1576851972126" />
     <state width="1345" height="334" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577657273936" />
-    <state width="1658" height="376" key="GridCell.Tab.0.center" timestamp="1578242781112">
+    <state width="1658" height="203" key="GridCell.Tab.0.center" timestamp="1578820890166">
       <screen x="-138" y="-1050" width="1680" height="1010" />
     </state>
-    <state width="1658" height="376" key="GridCell.Tab.0.center/0.0.1366.728/-138.-1050.1680.1010@-138.-1050.1680.1010" timestamp="1578242781112" />
+    <state width="1658" height="203" key="GridCell.Tab.0.center/0.0.1366.728/-138.-1050.1680.1010@-138.-1050.1680.1010" timestamp="1578820890166" />
     <state width="1659" height="216" key="GridCell.Tab.0.center/0.0.1366.728/-229.-1050.1680.1010@-229.-1050.1680.1010" timestamp="1576851972126" />
     <state width="1345" height="334" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577657273936" />
-    <state width="1658" height="376" key="GridCell.Tab.0.left" timestamp="1578242781111">
+    <state width="1658" height="203" key="GridCell.Tab.0.left" timestamp="1578820890166">
       <screen x="-138" y="-1050" width="1680" height="1010" />
     </state>
-    <state width="1658" height="376" key="GridCell.Tab.0.left/0.0.1366.728/-138.-1050.1680.1010@-138.-1050.1680.1010" timestamp="1578242781111" />
+    <state width="1658" height="203" key="GridCell.Tab.0.left/0.0.1366.728/-138.-1050.1680.1010@-138.-1050.1680.1010" timestamp="1578820890166" />
     <state width="1659" height="216" key="GridCell.Tab.0.left/0.0.1366.728/-229.-1050.1680.1010@-229.-1050.1680.1010" timestamp="1576851972125" />
     <state width="1345" height="334" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577657273936" />
-    <state width="1658" height="376" key="GridCell.Tab.0.right" timestamp="1578242781112">
+    <state width="1658" height="203" key="GridCell.Tab.0.right" timestamp="1578820890166">
       <screen x="-138" y="-1050" width="1680" height="1010" />
     </state>
-    <state width="1658" height="376" key="GridCell.Tab.0.right/0.0.1366.728/-138.-1050.1680.1010@-138.-1050.1680.1010" timestamp="1578242781112" />
+    <state width="1658" height="203" key="GridCell.Tab.0.right/0.0.1366.728/-138.-1050.1680.1010@-138.-1050.1680.1010" timestamp="1578820890166" />
     <state width="1659" height="216" key="GridCell.Tab.0.right/0.0.1366.728/-229.-1050.1680.1010@-229.-1050.1680.1010" timestamp="1576851972126" />
     <state width="1345" height="334" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577657273936" />
-    <state x="88" y="-1042" key="SettingsEditor" timestamp="1578309633536">
+    <state x="88" y="-1042" key="SettingsEditor" timestamp="1578819429766">
       <screen x="-138" y="-1050" width="1680" height="1010" />
     </state>
-    <state x="88" y="-1042" key="SettingsEditor/0.0.1366.728/-138.-1050.1680.1010@-138.-1050.1680.1010" timestamp="1578309633536" />
+    <state x="88" y="-1042" key="SettingsEditor/0.0.1366.728/-138.-1050.1680.1010@-138.-1050.1680.1010" timestamp="1578819429766" />
     <state x="186" y="8" key="SettingsEditor/0.0.1366.728/-138.-1050.1680.1010@0.0.1366.728" timestamp="1578136102973" />
     <state x="-3" y="-1042" key="SettingsEditor/0.0.1366.728/-229.-1050.1680.1010@-229.-1050.1680.1010" timestamp="1576832205832" />
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1578060235874" />

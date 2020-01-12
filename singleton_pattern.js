@@ -3,6 +3,12 @@
 // if no instance of the singleton class exists then a new instance is created and returned,
 // but if an instance already exists, then the reference to the existing instance is returned.
 
+// Singletons are useful in situations where system-wide actions
+// need to be coordinated from a single central place.
+// An example is a database connection pool.
+// The pool manages the creation, destruction,
+// and lifetime of all database connections for
+// the entire application ensuring that no connections are 'lost'.
 
 class Database {
   constructor(data) {

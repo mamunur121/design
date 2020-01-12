@@ -1,11 +1,14 @@
 // This is also a structural design pattern that focuses
-// on the ability to add behaviour or functionalities to existing classes dynamically.
-// It is another viable alternative to sub-classing.
+//Attach additional responsibilities to an object dynamically.
+// Decorators provide a flexible alternative to subclassing for extending functionality.
 
-// The decorator type behaviour is very easy to implement in JavaScript because
-// JavaScript allows us to add methods and properties to object dynamically.
-// The simplest approach would be to just add a property to an object,
-// but it will not be efficiently reusable.
+
+// An example of a decorator is security management where
+// business objects are given additional access to
+// privileged information depending on the privileges of the authenticated user.
+// For example, an HR manager gets to work with an
+// employee object that has appended (i.e. is decorated with)
+// the employee's salary record so that salary information can be viewed.
 
 class Book {
   constructor(title, author, price) {

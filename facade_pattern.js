@@ -4,6 +4,19 @@
 // It is used to provide a unified and simpler, public-facing interface
 // for ease of use that shields away from the complexities of its consisting subsystems or subclasses.
 
+
+// The Façade pattern provides an interface which shields clients from complex functionality in one or more subsystems.
+// It is often present in systems that are built around a multi-layer architecture.
+
+// The intent of the Façade is to provide a high-level interface (properties and methods)
+// that makes a subsystem or toolkit easy to use for the client.
+
+// Another area where Façades are used is in refactoring
+
+// On the server, in a multi-layer web application you frequently have a presentation layer which is a client to a service layer.
+// Communication between these two layers takes place via a well-defined API.
+// This API, or façade, hides the complexities of the business objects and their interactions from the presentation layer.
+
 let currentId = 0;
 
 class ComplaintRegistry  {

@@ -1,3 +1,11 @@
+// Define a one-to-many dependency between objects so that when one object changes state,
+// all its dependents are notified and updated automatically.
+
+// The Observer pattern offers a subscription model
+// in which objects subscribe to an event and get notified when the event occurs.
+// This pattern is the cornerstone of event driven programming, including JavaScript.
+// The Observer pattern facilitates good object-oriented design and promotes loose coupling.
+
 class Subject {
   constructor() {
     this._observers = [];
@@ -45,7 +53,7 @@ const obs2 = new Observer(19);
 sub.subscribe(obs1);
 sub.subscribe(obs2);
 
-sub.fire('DEC');
+sub.fire('INC');
 
 console.log(obs1.state); // 2
 console.log(obs2.state); // 20
